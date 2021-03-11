@@ -1,6 +1,6 @@
 # About
-> 		Mechanical and Controls Engineer (MSME, BEMech)
-> 		Ambitious and Deterministic Goal Seeker on Weekdays
-> 		Adventurer, Traveller and Foodie on Weekends
+    Mechanical and Controls Engineer (MSME, BEMech)
+    Sustainability and Mobility Enthusiasts
+    Ambitious goal seeker and adventurer for life
 
 *Welcome to my world...*
