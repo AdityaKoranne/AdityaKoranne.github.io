@@ -1,3 +1,3 @@
 # Home
 Hi Folks!
-Welcome to home.
+Welcome home.
