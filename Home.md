@@ -1,3 +1,3 @@
-#AdityaKoranne.github.io
+# Home
 Hi Folks!
-Welcome to my playground.
+Welcome to home.
