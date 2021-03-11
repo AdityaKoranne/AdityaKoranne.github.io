@@ -1,6 +1,6 @@
-layout: page
-title: "Projects"
-permalink: /Projects/
+#layout: page
+#title: "Projects"
+#permalink: /Projects/
 
 Welcome to my Project Section.
 Do you love working on projects and collaborating with others?
