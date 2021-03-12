@@ -1,3 +1,7 @@
-# About
-Hi folks! Thanks for dropping by.
-This site is in progress and will be available soon.
+---
+layout: default
+title: About
+---
+# About page
+
+This page tells you a little bit about me.
