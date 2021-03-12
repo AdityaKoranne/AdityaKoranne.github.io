@@ -5,7 +5,7 @@ Mechanical and Control Systems Engineer (MSME, BEMech)
 > *Ambitious and Deterministic Goal Seeker*  
 > *Adventurer, Foodie and Traveller*  
 
-*Welcome to the playground of infinite possibilities...*
+*Welcome to the playground of infinite possibilities...*  
 ___  
 
 # Projects
