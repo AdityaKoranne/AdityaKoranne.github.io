@@ -2,6 +2,7 @@
 ___
 Mechanical and Control Systems Engineer (MSME, BEMech)  
 
-*Ambitious and Deterministic Goal Seeker on Weekdays*  
-*Adventurer, Foodie and Traveller on Weekends*  
+*Ambitious and Deterministic Goal Seeker*  
+*Adventurer, Foodie and Traveller*  
+
 *Welcome to my world...*
