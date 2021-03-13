@@ -6,7 +6,7 @@ Mechanical and Control Systems Engineer (MSME, BEMech)
 > *Adventurer, Foodie and Traveller*  
 
 *Welcome to the playground of infinite possibilities...*  
-___  
+   ___  
 
 # Projects
 ___
