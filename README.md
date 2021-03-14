@@ -1,8 +1,8 @@
 # About
 ___
-Mechanical and Control Systems Engineer (MSME, BEMech)  
-Dynamic Systems and ELectric Mobility Enthusiast  
-Traveller, Foodie and a Loyal Companion  
+  Mechanical and Control Systems Engineer (MSME, BEMech)  
+  Dynamic Systems and ELectric Mobility Enthusiast  
+  Traveller, Foodie and a Loyal Companion  
 
 *Welcome to my professional world...*  
 
@@ -54,8 +54,8 @@ ___
 ___  
 
 # Contact
-Email:      akoranne@mtu.edu | 
-Cell:       (906)370-7579 |  
-LinkedIn:   https://www.linkedin.com/in/akoranne/ | 
-GitHub:     https://github.com/AdityaKoranne/
+Email:      akoranne@mtu.edu  
+Cell:       (906)370-7579  
+LinkedIn:   https://www.linkedin.com/in/akoranne/  
+GitHub:     https://github.com/AdityaKoranne/  
 ___  
