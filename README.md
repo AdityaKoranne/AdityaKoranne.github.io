@@ -1,7 +1,7 @@
 # About
 ___
   Mechanical and Control Systems Engineer (MSME, BEMech)  
-  Dynamic Systems and ELectric Mobility Enthusiast  
+  Dynamic Systems and Electric Mobility Enthusiast  
   Traveller, Foodie and a Loyal Companion  
 
 *Welcome to my professional world...*  
@@ -28,11 +28,11 @@ ___
 ## Senior Project: Remotely Operated Underwater Vehicle (ROV)
 - Led a team of 4 to develop propulsion, chassis and 5-axis manipulator systems of ROV using agile framework
 - Created product specifications, trade-off studies, system design, controls and validation using SolidWorks and on hydraulic TestBench.
+- Project Sponsored by Aker Solutions, Pune
 
 ## SAE Baja: Powertrain Team
 - Developed CAD model of differential in CATIA. Achieved gearbox weight reduction by 30% through FEA simulations.
-- Supervised manufacturing, inspected gears, assembled the differential and tested for endurance in 2 months.
-___  
+- Supervised manufacturing, inspected gears, assembled the differential and tested for endurance in 2 months.  
 
 # Work Experience
 ___  
@@ -50,12 +50,10 @@ ___
 ## General Electric, Pune India
 ### May 30, 2016 - July 209, 2016
 - Conducted operations excellence drive to identify and reduce production lead time by 20%
-- Implemented Value Stream Mapping (Lean Manufacturing) and 5S to achieve desired results in less than 2 months
-___  
+- Implemented Value Stream Mapping (Lean Manufacturing) and 5S to achieve desired results in less than 2 months   
 
 # Contact
-Email:      akoranne@mtu.edu  
-Cell:       (906)370-7579  
-LinkedIn:   https://www.linkedin.com/in/akoranne/  
-GitHub:     https://github.com/AdityaKoranne/  
-___  
+Email:      akoranne@mtu.edu  |
+Cell:       (906)370-7579  |
+LinkedIn:   https://www.linkedin.com/in/akoranne/  |
+GitHub:     https://github.com/AdityaKoranne/  |
