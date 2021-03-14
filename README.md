@@ -1,8 +1,8 @@
 # About
 ___
-  Mechanical and Control Systems Engineer (MSME, BEMech)  
-  Dynamic Systems and Electric Mobility Enthusiast  
-  Traveller, Foodie and Loyal Companion  
+Mechanical and Control Systems Engineer (MSME, BEMech)   
+Dynamic Systems and Electric Mobility Enthusiast   
+Traveller, Foodie and Loyal Companion     
 
 *Welcome to my professional world...*  
 
