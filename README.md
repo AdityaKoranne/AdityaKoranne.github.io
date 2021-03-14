@@ -25,12 +25,12 @@ ___
 2. Engine Throttle Control
 3. Stepper Motor Control  
 
-## Senior Project: Remotely Operated Underwater Vehicle (ROV)
+## Remotely Operated Underwater Vehicle
 - Led a team of 4 to develop propulsion, chassis and 5-axis manipulator systems of ROV using agile framework
 - Created product specifications, trade-off studies, system design, controls and validation using SolidWorks and on hydraulic TestBench.
 - Project Sponsored by Aker Solutions, Pune
 
-## SAE Baja: Powertrain Team
+## SAE Baja: Powertrain Engineer
 - Developed CAD model of differential in CATIA. Achieved gearbox weight reduction by 30% through FEA simulations.
 - Supervised manufacturing, inspected gears, assembled the differential and tested for endurance in 2 months.  
 
