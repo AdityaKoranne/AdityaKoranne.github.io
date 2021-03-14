@@ -57,8 +57,7 @@ ___
 
 # Contact
 Email:      akoranne@mtu.edu | 
-Cell:       (906)370-7579 | 
-Timezone:   EST | 
+Cell:       (906)370-7579 |  
 LinkedIn:   https://www.linkedin.com/in/akoranne/ | 
 GitHub:     https://github.com/AdityaKoranne/
 ___  
